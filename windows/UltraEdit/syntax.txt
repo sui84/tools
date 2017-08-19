@@ -1,0 +1,83 @@
+Wordfile changes for syntax highlighting:
+
+UE has defaults for Open and Close Brace Strings for many languages.
+If no strings are specified in the Wordfile, the defaults are used. 
+Otherwise, the specified strings are used are used for brace matching.
+
+/Open Brace Strings = "("
+/Close Brace Strings = ")"
+
+
+UE has defaults for Open and Close Fold Strings for many languages.
+If no strings are specified in the Wordfile, the defaults are used.
+Otherwise, the specified strings are used are used for folding.
+
+/Open Fold Strings = "{"
+/Close Fold Strings = "}"
+
+
+UE has defaults for Multi-line string highlighting capability for
+many languages.  If no strings are specified in the Wordfile, the
+defaults are used.  Otherwise, one of the following strings may be
+added to the language definition line (i.e., /L8 PHP ...)
+
+EnableMLS
+DisableMLS
+
+
+UE has improved syntax highlighting and it now supports multiple 
+languages within a single file.  This is specifically for HTML type 
+files.  To help facilitate this, we have added additional language 
+indicators that should be added to the wordfile.txt file to indicate the 
+type of language for any languages that may be included within another. 
+Our default wordfile has these modifications.
+
+Example:
+If an HTML file includes PHP then the syntax highlighting section must 
+exist in the main wordfile and the PHP section should include in the 
+definition line: PHP_LANG
+
+Unambiguous language markers have been added to the default wordfile for
+the following languages:
+
+C_LANG               // C/C++
+COBOL_LANG           // Cobol
+FORTRAN_LANG         // Fortran
+PASCAL_LANG          // Pascal
+PERL_LANG            // Perl
+PLB_LANG             // Plb
+VB_LANG              // Visual Basic
+VBSCRIPT_LANG        // Vb Script
+ASP_LANG             // ASP
+CSHARP_LANG          // C Sharp
+CSS_LANG             // CSS
+LATEX_LANG           // TeX / LaTeX
+HTML_LANG            // HTML
+JAVA_LANG            // Java
+JSCRIPT_LANG         // Javascript
+ECMA_LANG            // Ecma / Ecmascript
+PHP_LANG             // PHP
+PYTHON_LANG          // Python
+XML_LANG             // XML
+XSL_LANG             // XSL
+MATLAB_LANG          // Matlab script
+MASM_LANG            // Microsoft Assembler
+AASM_LANG            // AT&T Assembler
+NASM_LANG            // Netwide Assembler
+
+Currently, UE uses the above language markers to correctly highlight
+multiple languages within a file.  In the future UE may make further
+use of these languages markers in the wordfile.
+
+Note that if your wordfile contains multiple occurrences of the HTML_LANG
+language marker, this must be corrected or some languages may not
+highlight correctly.  UE allows only one instance of a language marker
+(i.e., C_LANG, COBOL_LANG, HTML_LANG) in a wordfile.
+
+The following file extensions were moved to the HTML section of the
+default wordfile: php, asp, and jsp.  This was done to facilitate correct
+HTML highlighting at the outer language level of the file even when no
+<HTML> language tag is specified within the file.  All php, asp, and jsp
+sections of the files are highlighted correctly based on language start
+and end tags (<? and ?> for example), however a "View As" will show the
+file as HTML type.

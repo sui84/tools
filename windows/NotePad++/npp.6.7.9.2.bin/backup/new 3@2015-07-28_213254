@@ -1,0 +1,398 @@
+@{
+    ViewBag.Title = "Home Pege";
+}
+@model XiaoMaoSuanMing.Models.HomeModel
+
+
+  <section id="main-slider" class="no-margin">
+  <div class="carousel slide">
+    <ol class="carousel-indicators"></ol>
+    <div class="carousel-inner" style="overflow:auto;">
+      <div class="item active" >
+        <div class="container" >
+		<div class="row show-grid col-lg-6">
+            <div class="row show-grid "
+
+
+              <b>姓名：@Model.Name
+			  出生地：
+			 公历：</b>
+              <font class="text-danger">@Model.GongliDT.Year </font>年
+              <font class="text-danger">@Model.GongliDT.Month </font>月
+              <font class="text-danger">@Model.GongliDT.Day </font>日
+              <font class="text-danger">@Model.GongliDT.Hour </font>时
+              <font class="text-danger">@Model.GongliDT.Minute </font>分　　
+              <b>农历：</b><font class="text-danger"> @Model.NongLi</font>
+            <br />
+            <b>@Model.PreviousJieQi：</b>
+            <font class="text-danger">@Model.PreviousJieQiDate.Year </font>年
+            <font class="text-danger">@Model.PreviousJieQiDate.Month </font>月
+            <font class="text-danger">@Model.PreviousJieQiDate.Day </font>日
+            <font class="text-danger">@Model.PreviousJieQiDate.Hour </font>时
+            <font class="text-danger">@Model.PreviousJieQiDate.Minute </font>分　
+            <b>@Model.NextJieQi：</b>
+            <font class="text-danger">@Model.NextJieQiDate.Year </font>年
+            <font class="text-danger">@Model.NextJieQiDate.Month </font>月
+            <font class="text-danger">@Model.NextJieQiDate.Day </font>日
+            <font class="text-danger">@Model.NextJieQiDate.Hour </font>时
+            <font class="text-danger">@Model.NextJieQiDate.Minute </font>分　　
+            <br />
+</div>
+   
+   <div class="row show-grid">		 
+        <div class="span1 tooltip-options" title="<h2>Example tooltipsdghfgffffffffffffffffffffffffffffff</h2>" > <span class="label"></span></div>
+		<div class="span1"  title="">年柱</div>
+        <div class="span1"  title="">月柱</div>
+		<div class="span1"  title="">日柱</div>
+        <div class="span1"  title="">时柱</div>
+		<div class="span1"  title=""></div>
+       <div class="span1 tooltip-options" title="<h2>@Model.SiZhuList[4].Remark</h2>">大运</div>
+       <div class="span1 tooltip-options" title="<h2>@Model.SiZhuList[5].Remark</h2>">小运</div>
+       <div class="span1 tooltip-options" title="<h2>@Model.SiZhuList[6].Remark</h2>">流年</div>
+    </div>
+   <div class="row show-grid">		 
+        <div class="span1 tooltip-options" title="<h2>Example tooltipsdghfgffffffffffffffffffffffffffffff</h2>" > <span class="label"></span></div>
+		<div class="span1 alert-info"  title="">@Model.SiZhuList[0].GanSS</div>
+        <div class="span1 alert-info"  title="">@Model.SiZhuList[1].GanSS</div>
+		<div class="span1 alert-info"  title="">日主</div>
+        <div class="span1 alert-info"  title="">@Model.SiZhuList[3].GanSS</div>
+		<div class="span1"  title=""></div>
+       <div class="span1 alert-info" >@Model.SiZhuList[4].GanSS</div>
+       <div class="span1 alert-info" >@Model.SiZhuList[5].GanSS</div>
+       <div class="span1 alert-info">@Model.SiZhuList[6].GanSS</div>
+    </div>
+	<div class="row show-grid">	
+	<div class="span1 "  title="">@Model.ZaoName：</div>
+    <div class=" span1 alert-danger"  title="">@Model.SiZhuList[0].Gan<br/>@Model.SiZhuList[0].Zhi</div>
+	<div class=" span1 alert-danger"  title="">@Model.SiZhuList[1].Gan<br/>@Model.SiZhuList[1].Zhi</div>
+	<div class=" span1 alert-danger"  title="">@Model.SiZhuList[2].Gan<br/>@Model.SiZhuList[2].Zhi</div>
+	<div class=" span1 alert-danger"  title="">@Model.SiZhuList[3].Gan<br/>@Model.SiZhuList[3].Zhi</div>
+	<div class=" span1 alert-danger"  title=""> (@Model.KongWang)</div>
+	<div class=" span1 alert-danger"  title="">@Model.SiZhuList[4].Gan<br/>@Model.SiZhuList[4].Zhi</div>
+	<div class=" span1 alert-danger"  title="">@Model.SiZhuList[5].Gan<br/>@Model.SiZhuList[5].Zhi</div>
+	<div class=" span1 alert-danger"  title="">@Model.SiZhuList[6].Gan<br/>@Model.SiZhuList[6].Zhi</div>
+	</div>
+		<div class="row show-grid">	
+	<div class="span1 "  title=""></div>
+    <div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[0].ZhiCG1</font>@Model.SiZhuList[0].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[0].ZhiCG2</font>@Model.SiZhuList[0].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[0].ZhiCG3</font>@Model.SiZhuList[0].ZhiSS3</div>
+	<div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[1].ZhiCG1</font>@Model.SiZhuList[1].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[1].ZhiCG2</font>@Model.SiZhuList[1].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[1].ZhiCG3</font>@Model.SiZhuList[1].ZhiSS3</div>
+	<div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[2].ZhiCG1</font>@Model.SiZhuList[2].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[2].ZhiCG2</font>@Model.SiZhuList[2].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[2].ZhiCG3</font>@Model.SiZhuList[2].ZhiSS3</div>
+	<div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[3].ZhiCG1</font>@Model.SiZhuList[3].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[3].ZhiCG2</font>@Model.SiZhuList[3].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[3].ZhiCG3</font>@Model.SiZhuList[3].ZhiSS3</div>
+	<div class=" span1 "  title=""> </div>
+	<div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[4].ZhiCG1</font>@Model.SiZhuList[4].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[4].ZhiCG2</font>@Model.SiZhuList[4].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[4].ZhiCG3</font>@Model.SiZhuList[4].ZhiSS3</div>
+	<div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[5].ZhiCG1</font>@Model.SiZhuList[5].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[5].ZhiCG2</font>@Model.SiZhuList[5].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[5].ZhiCG3</font>@Model.SiZhuList[5].ZhiSS3</div>
+	<div class=" span1 alert-info"  title=""><font class="alert-success">@Model.SiZhuList[6].ZhiCG1</font>@Model.SiZhuList[6].ZhiSS1
+	<br/><font class="alert-success">@Model.SiZhuList[6].ZhiCG2</font>@Model.SiZhuList[6].ZhiSS2<br/><font class="alert-success">@Model.SiZhuList[6].ZhiCG3</font>@Model.SiZhuList[6].ZhiSS3</div>
+	</div>
+	<div class="row show-grid">	
+	<div class="span1 "  title="">旺衰：</div>
+    <div class=" span1"  title="">@Model.SiZhuList[0].WangShuai</div>
+	<div class=" span1 "  title="">@Model.SiZhuList[1].WangShuai</div>
+	<div class=" span1 "  title="">@Model.SiZhuList[2].WangShuai</div>
+	<div class=" span1 "  title="">@Model.SiZhuList[3].WangShuai</div>
+	<div class=" span1 "  title=""> </div>
+	<div class=" span1 "  title="">@Model.SiZhuList[4].WangShuai</div>
+	<div class=" span1 "  title="">@Model.SiZhuList[5].WangShuai</div>
+	<div class=" span1 "  title="">@Model.SiZhuList[6].WangShuai</div>
+	</div><div class="row show-grid">	
+	<div class="span1 "  title="">纳音：</div>
+    <div class=" span1 alert-success"  title="">@Model.SiZhuList[0].NaYin</div>
+	<div class=" span1 alert-success"  title="">@Model.SiZhuList[1].NaYin</div>
+	<div class=" span1 alert-success"  title="">@Model.SiZhuList[2].NaYin</div>
+	<div class=" span1 alert-success"  title="">@Model.SiZhuList[3].NaYin</div>
+	<div class="span1  "  title=""> </div>
+	<div class=" span1 alert-success"  title="">@Model.SiZhuList[4].NaYin</div>
+	<div class=" span1 alert-success"  title="">@Model.SiZhuList[5].NaYin</div>
+	<div class=" span1 alert-success"  title="">@Model.SiZhuList[6].NaYin</div>
+	</div>
+	<div class="row show-grid">		 
+        <div class="span1 " title="">吉神：</div>
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[0].JiShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[1].JiShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[2].JiShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[3].JiShengShaList)
+        <div class="span1  " title=""> </div>
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[4].JiShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[5].JiShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[6].JiShengShaList)
+
+    </div>
+    <div class="row show-grid">		 
+        <div class="span1 " title="">凶煞：</div>
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[0].XiongShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[1].XiongShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[2].XiongShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[3].XiongShengShaList)
+        <div class="span1  " title=""> </div>
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[4].XiongShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[5].XiongShengShaList)
+        @Html.Partial("_ShengShaItem", Model.SiZhuList[6].XiongShengShaList)
+
+     
+    </div>
+	</div>
+      <div class="row show-grid col-lg-6" style="padding-left:-300px;">	
+          <div class=" wow fadeInDown">
+              <div class="tab-wrap">
+                  <div class="media">
+                      <div class="parrent pull-left">
+                          <ul class="nav nav-tabs nav-stacked">
+                              <li class="active">
+                                  <a href="#tab1" data-toggle="tab" class="analistic-01">大运</a>
+                              </li>
+                              <li class="">
+                                  <a href="#tab2" data-toggle="tab" class="analistic-02">断命</a>
+                              </li>
+
+                          </ul>
+                      </div>
+                      <div class="parrent media-body">
+                          <div class="tab-content">
+                              <div class="tab-pane fade active in" id="tab1">
+                                  <div class="media">
+
+                                      <div class="media-body morewidth">
+                                          <table class=" morewidth">
+                                              <caption></caption>
+                                              <thead>
+                                                  <tr>
+                                                      <th>旺衰：</th>
+                                                      @if (Model.DaYunList.Count > 0)
+          {
+              foreach (Common.Data.dBaZi bz in Model.DaYunList)
+              {
+                                  <th>@bz.zWangShuai.WangShuai</th>
+              }
+          }
+                                                  </tr>
+                                              </thead>
+                                              <tbody>
+                                                  <tr>
+                                                      <td>纳音:</td>
+                                                      @if (Model.DaYunList.Count > 0)
+          {
+              foreach (Common.Data.dBaZi bz in Model.DaYunList)
+              {
+                                  <td>[<font class="text-success">@bz.zNaYin.NaYin</font>]</td>
+              }
+          }
+                                                  </tr>
+                                                  <tr>
+                                                      <td>起运:</td>
+                                                      <td colspan="8">
+                                                          命主于出生后
+                                                          <font class="text-danger">@(Model.QiYunDateTime.Year - Model.GongliDT.Year) </font>年
+                                                          @*<font color="#FF0000">@Model.QiYunTimeSpan.Month </font>个月
+                            <font color="#FF0000">@Model.QiYunTimeSpan.Day </font>天
+                            <font color="#FF0000">@Model.QiYunTimeSpan.Hour </font>小时*@
+                                                          开始起运
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td>交运：</td>
+                                                      <td colspan="8">
+                                                          命主于公历
+                                                          <font class="text-danger">@Model.QiYunDateTime.Year </font>年
+                                                          <font class="text-danger">@Model.QiYunDateTime.Month </font>月
+                                                          <font class="text-danger">@Model.QiYunDateTime.Day </font>日
+                                                          <font class="text-danger">@Model.QiYunDateTime.Hour </font>时交运
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td>十神：</td>
+                                                      @if (Model.DaYunList.Count > 0)
+        {
+            foreach (Common.Data.dBaZi bz in Model.DaYunList)
+            {
+                                  <td><font class="text-primary">@bz.zShiSheng.ShiSheng</font></td>
+            }
+        }
+
+                                                  </tr>
+                                                  <tr>
+                                                      <td>大运：</td>
+                                                      @if (Model.DaYunList.Count > 0)
+           {
+               foreach (Common.Data.dBaZi bz in Model.DaYunList)
+               {
+                                  <td><font class="text-danger tooltip-options shisheng" data-id="@bz.BaZiId">@bz.zGan.Gan@bz.zZhi.Zhi</font></td>
+               }
+           }
+                                                  </tr>
+                                                  <tr>
+                                                      <td></td>
+                                                      @if (Model.DaYunList.Count > 0)
+          {
+              foreach (Common.Data.dBaZi bz in Model.DaYunList)
+              {
+                                  <td><font class="">@(bz.Year - Model.GongliDT.Year ) 岁</font></td>
+              }
+          }
+                                                  </tr>
+                                                  <tr>
+                                                      <td>始于：</td>
+                                                      @if (Model.DaYunList.Count > 0)
+         {
+             foreach (Common.Data.dBaZi bz in Model.DaYunList)
+             {
+                                  <td><font class="text-primary">@bz.Year</font></td>
+             }
+         }
+                                                  </tr>
+                                                  @for (int i = 0; i < 10; i++)
+        {
+                                                      <tr>
+                                                          @{var iStr = i.ToString();
+                  if (i == 0) { iStr = "流年："; }
+                                                          }
+                                                          <td>@iStr</td>
+                                                          @for (int j = 0; j < Common.Constants.ConstData.LiuNianNum; j++)
+                {
+                    Common.Data.dBaZi bz = @Model.LiuNianList[i + (j * 10)];
+                    var cl="btn-info";
+                    if (bz.Year == @Model.CurYear)
+                    { cl = "btn-danger"; }
+                                                          <td>
+                                                              <button class="btn @cl tooltip-options shisheng " title="" data-id="@bz.BaZiId" type="button">
+                                                                  @bz.zGan.Gan@bz.zZhi.Zhi
+                                                              </button>
+                                                          </td>
+                                                          }
+                                                      </tr>
+        }
+                                                  <tr>
+
+                                                  <tr>
+                                                      <td>止于：</td>
+                                                      @if (Model.DaYunList.Count > 0)
+           {
+               foreach (Common.Data.dBaZi bz in Model.DaYunList)
+               {
+                                  <td><font class="text-primary">@(bz.Year+9)</font></td>
+               }
+           }
+                                                  </tr>
+                                                  <tr>
+                                                      <td></td>
+                                                      @if (Model.XiaoYunList.Count > 0)
+         {
+             foreach (Common.Data.dBaZi bz in Model.XiaoYunList)
+             {
+                                  <td>@bz.zWangShuai.WangShuai</td>
+             }
+         }
+                                                  </tr>
+                                                  <tr>
+                                                      <td>小运：</td>
+                                                      @if (Model.XiaoYunList.Count > 0)
+         {
+             foreach (Common.Data.dBaZi bz in Model.XiaoYunList)
+             {
+                                  <td>
+                                      <button class="btn btn-info tooltip-options shisheng" title="" data-id="@bz.BaZiId" type="button">
+                                          @bz.zGan.Gan@bz.zZhi.Zhi
+                                      </button>
+                                  </td>
+             }
+         }
+                                                  </tr>
+                                                  <tr>
+                                                      <td>虚岁：</td>
+                                                      @if (Model.XiaoYunList.Count > 0)
+         {
+             foreach (Common.Data.dBaZi bz in Model.XiaoYunList)
+             {
+                                  <td>@(bz.BaZiSeq)岁</td>
+             }
+         }
+                                                  </tr>
+                                              </tbody>
+                                          </table>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="tab-pane fade " id="tab2">
+                                  <div class="media">
+                                      <div class="media-body">
+                                          <h2>Adipisicing elit</h2>
+                                          <p>
+                                              There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+                                              alteration in some form, by injected humour, or randomised words which don&#39;t look even slightly
+                                              believable. If you are going to use.
+                                          </p>
+                                      </div>
+                                  </div>
+                              </div>
+                         
+                          </div>
+                          <!--/.tab-content-->
+                      </div>
+                      <!--/.media-body-->
+                  </div>
+                  <!--/.media-->
+              </div>
+              <!--/.tab-wrap-->
+          </div>
+       
+  
+  
+        </div>
+		
+      </div>
+    </div>
+	
+    <!--/.item-->
+    <div class="item"></div>
+    <!--/.item-->
+    <div class="item" style="background-image: url(images/slider/bg3.jpg)">
+      <div class="container">
+        <div class="row slide-margin">
+          <div class="col-sm-6">
+            <div class="carousel-content">
+              <h1 class="animation animated-item-1">Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
+              <h2 class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
+              <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+            </div>
+          </div>
+          <div class="col-sm-6 hidden-xs animation animated-item-4">
+            <div class="slider-img">
+              <img src="images/slider/img3.png" class="img-responsive" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--/.item-->
+  </div>
+  <!--/.carousel-inner-->
+  <!--/.carousel-->
+  <a class="prev hidden-xs" href="#main-slider" data-slide="prev"><i class="fa fa-chevron-left"></i></a> 
+  <a class="next hidden-xs" href="#main-slider" data-slide="next"><i class="fa fa-chevron-right"></i></a></section>
+  <!--/#main-slider-->
+<script>
+    $(function () {
+
+        $('.shisheng').hover(function (event) {
+            var obj = $(this);
+            var id = $(this).attr("data-id");
+            $.ajax({
+                type: "POST",
+                url: "/Home/GetLiuNianRemark",
+                data: { bzId: id },
+                dataType: "html",
+                success: function (result) {
+                    $(obj).attr("data-original-title", result);
+                }
+            });
+
+        });
+    });
+    
+</script>

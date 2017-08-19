@@ -1,0 +1,241 @@
+
+http://yun.baidu.com/share/link?shareid=1993638546&uk=4281287309
+
+网易
+链接: http://pan.baidu.com/s/1miRcf0k 密码: n9kh
+
+ 天涯论坛4000w数据.txt
+ https://pan.baidu.com/share/link?shareid=2628210036&uk=2672592642&fid=969646450767587
+
+ soyun
+ https://pan.baidu.com/share/link?shareid=1013504874&uk=2216458940
+ 
+ 如家汉庭等酒店2000入住開房
+ https://pan.baidu.com/share/link?shareid=334729443&uk=1698510956&fid=802593172
+ 
+ https://pan.baidu.com/share/home?uk=2672592642#category/type=0
+ 
+ CREATE NONCLUSTERED INDEX [NonClusteredIndex-NamePassId] ON [dbo].[sgk]
+ (
+  [name1] ASC,
+  [pass] ASC,
+  [id] ASC
+ )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON)
+ 
+ select * from (
+select s.name1,s.pass,s.email,a.fname,a.email as email3 from [dbo].[sgk] s,acc  a where s.name1=a.name
+) as t where (len(t.pass)>0 or len(t.email)>0)
+
+451万
+wrong:
+BULK INSERT csdn   FROM 'D:\06_Download\CSDN-中文IT社区-600万\CSDN-中文IT社区-600万\www.csdn.net.sql' 
+  WITH(      FIELDTERMINATOR='#',   ROWTERMINATOR='\r\n') 
+
+correct:
+  BULK INSERT csdn   FROM 'D:\06_Download\CSDN-中文IT社区-600万\CSDN-中文IT社区-600万\www.csdn.net.sql' 
+  WITH(      FIELDTERMINATOR='#',   ROWTERMINATOR='\n') 
+  
+  update csdn set uname=ltrim(rtrim(uname)),pass=ltrim(rtrim(pass)),email=ltrim(rtrim(email))
+ 
+ BULK INSERT wy   FROM 'D:\06_Donload\网易3000W账密\网易密正3200\网易密正1.txt' 
+  WITH(      FIELDTERMINATOR='----',   ROWTERMINATOR='\n') 
+  
+  
+  copy /b old.zip.001+old.zip.002 1.zip
+  
+  
+  合并文本
+  copy *.txt wy.txt
+  
+  197成功，总共205,有7个不成功
+  
+  dir "D:\file" /b >fn.txt
+70676740
+7000万12分钟
+select distinct * into wy from wy2
+去掉重复记录后再建索引,1万多条记录16分钟
+建了索引后改字段名字飞快，但是插入新字段还是很慢~
+  
+ 
+ select * from sgk,csdn where sgk.email=csdn.email
+ 
+QQ24.5GB数据库解压密码? ? Yor9OQG7ycmG&|fuxiangmu.com|taiyouyisi.com|!4FL
+
+140167675904
+32839008256
+
+98万
+423771078
+4亿
+
+1	souyun    4亿
+2	wangyi    7000万 40844233
+3	qq
+4	tianya     31761295
+5	renren
+6	yy
+7   aipai  7025755
+8   7k7k   5336607
+9   csdn
+10  12306   129306
+11   xiaomi
+12   weibo
+13   kaifang
+14   av-tw.net
+15   h4399.com&y9sq.com
+
+
+
+  select  rtrim(ltrim(substring(a,1,patindex('% %',a)))) as a,rtrim(ltrim(substring(a,patindex('% %',a),len(a)-patindex('% %',a)+1))) as b 
+  into ty from ty2
+
+
+  select charindex('yongzhiyong@163.com 4412500','% %'),patindex('% %','yongzhiyong@163.com 4412500')
+  0	20
+  
+  update rr set name=REPLACE(REPLACE(ltrim(rtrim(name)),CHAR(10),''),CHAR(13),''),pass=REPLACE(REPLACE(ltrim(rtrim(pass)),CHAR(10),''),CHAR(13),'')
+  select max(len(name)),max(len(pass)) from rr
+  
+   select   a ,rtrim(ltrim(substring(b,1,patindex('% %',b)))) as b,rtrim(ltrim(substring(b,patindex('% %',b),len(b)-patindex('% %',b)+1))) as c
+  into ty2 from ty
+  
+  insert into ap 
+select tid,name, rtrim(ltrim(substring(email,1,patindex('%,%',email)-1))) as pass
+,rtrim(ltrim(substring(email,patindex('%,%',email)+1,len(email)-patindex('%,%',email)))) as email  from ty
+  
+create function split(@str varchar(100))
+returns   @tab table(id int identity(1,1),val varchar(10))
+as begin
+declare @val varchar(10),@ind int 
+set @ind=charindex(',',@str)
+while @ind>0
+begin
+set @val=left(@str,@ind-1)
+set @str=right(@str,len(@str)-@ind)
+set @ind=charindex(',',@str)
+insert into @tab
+values(@val)
+end
+if @ind=0
+set @val=@str
+insert into @tab
+values(@val)
+return  
+end
+
+
+  EXEC master.dbo.sp_addlinkedserver 
+@server = N'MYSQL2', 
+@srvproduct=N'mySQL', 
+@provider=N'MSDASQL', 
+@provstr=N'DRIVER={MySQL ODBC 5.3 Unicode Driver}; SERVER=localhost; _
+ DATABASE=xiaomi_com; USER=root; PASSWORD=; OPTION=3'
+ 
+ 
+ select * from sys.dm_fts_parser ('"qiyadaizhangm10"',1033,0,1)
+
+ EXECUTE sp_help_fulltext_tables
+ 
+ SELECT FULLTEXTCATALOGPROPERTY('new', 'PopulateStatus') AS PopulateStatus
+ 
+ (246856049 行受影响)
+
+ 
+MICROSOFT SQL SERVER 2012 企业核心版激活码序列号: FH666-Y346V-7XFQ3-V69JM-RHW28
+ 
+MICROSOFT SQL SERVER 2012 商业智能版激活码序列号: HRV7T-DVTM4-V6XG8-P36T4-MRYT6
+ 
+MICROSOFT SQL SERVER 2012 开发版激活码序列号: YQWTX-G8T4R-QW4XX-BVH62-GP68Y
+ 
+MICROSOFT SQL SERVER 2012 企业服务器版/CAL版激活码序列号: 748RB-X4T6B-MRM7V-RTVFF-CHC8H
+ 
+MICROSOFT SQL SERVER 2012 标准版激活码序列号: YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
+ 
+MICROSOFT SQL SERVER 2012 WEB版激活码序列号: FB3W8-YRXDP-G8F8F-C46KG-Q998F
+
+
+http://yun.baidu.com/s/1dDCyu2X#path=%252F%25E6%2595%25B0%25E6%258D%25AE%25E5%25BA%2593%252F%25E6%2590%259C%25E4%25BA%2591%25E6%2595%25B0%25E6%258D%25AE%25E5%25BA%2593%252F%25E6%2595%25B0%25E6%258D%25AE%25E5%25BA%2593%252Fsoyun
+
+
+Name
+CardNo
+Descriot
+CtfTp
+CtfId
+Gender
+Birthday
+Address
+Zip
+Dirty
+District1
+District2
+District3
+District4
+District5
+District6
+FirstNm
+LastNm
+Duty
+Mobile
+Tel
+Fax
+EMail
+Nation
+Taste
+Education
+Company
+CTel
+CAddress
+CZip
+Family
+Version
+id
+
+USE [new]
+GO
+
+/****** Object:  Table [dbo].[kf4]    Script Date: 2016/10/15 19:03:52 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[kf4](
+	[Name] [nvarchar](50) NULL,
+	[CardNo] [nvarchar](50) NULL,
+	[Descriot] [nvarchar](50) NULL,
+	[CtfTp] [nvarchar](50) NULL,
+	[CtfId] [nvarchar](50) NULL,
+	[Gender] [nvarchar](50) NULL,
+	[Birthday] [nvarchar](50) NULL,
+	[Address] [nvarchar](500) NULL,
+	[Zip] [nvarchar](50) NULL,
+	[Dirty] [nvarchar](50) NULL,
+	[District1] [nvarchar](50) NULL,
+	[District2] [nvarchar](50) NULL,
+	[District3] [nvarchar](50) NULL,
+	[District4] [nvarchar](50) NULL,
+	[District5] [nvarchar](50) NULL,
+	[District6] [nvarchar](50) NULL,
+	[FirstNm] [nvarchar](50) NULL,
+	[LastNm] [nvarchar](50) NULL,
+	[Duty] [nvarchar](50) NULL,
+	[Mobile] [nvarchar](50) NULL,
+	[Tel] [nvarchar](50) NULL,
+	[Fax] [nvarchar](50) NULL,
+	[EMail] [nvarchar](50) NULL,
+	[Nation] [nvarchar](50) NULL,
+	[Taste] [nvarchar](50) NULL,
+	[Education] [nvarchar](50) NULL,
+	[Company] [nvarchar](50) NULL,
+	[CTel] [nvarchar](50) NULL,
+	[CAddress] [nvarchar](50) NULL,
+	[CZip] [nvarchar](50) NULL,
+	[Family] [nvarchar](50) NULL,
+	[Version] [nvarchar](50) NULL,
+	[id] [nvarchar](50) NULL
+) ON [PRIMARY]
+
+GO
+

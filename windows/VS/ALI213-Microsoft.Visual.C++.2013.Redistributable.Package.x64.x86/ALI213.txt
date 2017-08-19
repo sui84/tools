@@ -1,0 +1,90 @@
+﻿                                                  __
+                                                 d888b
+                                                888888b
+                                                8888888
+                                                8888888
+                                                8888888
+                                     _          8888888
+                                   ,d88         8888888
+                            ____  d88' _,,      888888'
+                           (8888\ 88' d888)     Y8888P
+                           ___~~8 ~8  88~___    d8888
+  _______              ,8888888        ~ 888888_8888
+,8888888888===__    _,d88P~~               ~~Y88888'
+88888888888888888888888'                        `88b
+8888888888888888888888P                          Y88
+`~888888888888~~~~~ 88                            88
+    ~~~~~~~~        88                            88
+                    88                            88
+                    88                            88
+                    88                            88
+                    88    ,aa.            ,aa.    88
+                    88    d88b            d88b    88
+                  ,=88    Y88P            Y88P    88=,
+                ,d88P'     `'     _aa_     `'     `Y88b,     ___
+                88P'             (8888)             `Y88  ad88888b
+                88                ~^^~                88 d88Y~~"Y8b
+         _______"Yb._                              _.d8"d8Y      88
+ ______,d88888888ba888=,.______________________.,=8888~d88_______88___
+|~~~~~~88P~~~~~~Y88~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|      88        88                                                   |
+|      88        88                                                   |
+|      88ba,___,d8P                                                   |
+|       "888888888                                                    |
+|                                                                     |
+|           W            W     W                                      |
+|     WW  WW   W         W     W        WWWWWWWWWWWWW                 |
+|      W   W   W         W     W        W           W                 |
+|             WWWWWW    W  WWWWWWWWW    W    W   W  W                 |
+|       WWWWWW          W      W  W     W W  WW  W  W                 |
+|    WW W W  WWWWWWW    W  W   W  W     W  WW  W W  W                 |
+|     WW  W W    W     WW   W W  W      W   W  WW   W                 |
+|      W  WWW   W     W W   W W W       W   W   W   W                 |
+|      W  W W   W       W     W    W    W  W W  WW  W                 |
+|      W  W W WWWWWW    W  WWWWWWWW     W W  W W WW W                 |
+|    WW  W  W   W       W     WW        W W   W   W W                 |
+|     W  W  W   W       W    W  W       W           W                 |
+|     W  W  W   W       W    W   W      W           W                 |
+|     W W   W   W       W   W     W     W          WW                 |
+|     WW   W   WW       W  W       WW   W        WWW                  |
+|_____________________________________________________________________|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~||~~~~~~~~~~~~ 
+                                                         ||
+   _____            _____________________________________||__________________
+ z$$$$$$ www.ali213.com $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+J$`                                                                          4$
+$F                                                                           4$
+$F                                 CHINA HQ                                  4$
+$F                           CHINA GAME RELEASE HQ                           4$
+'$b                                                                         d$'
+  '$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$'
+
+Microsoft Visual C++ 2013 Redistributable Package (x86、x64)
+
+使用说明：
+
+Visual C++ Redistributable Packages 安装运行时组件，这些组件是在未安装 Visual Studio 2013 的计算机上运行使用 Visual Studio 2013 开发的应用程序所必需的。这些软件包安装以下库的运行时组件：C 运行时 (CRT)、标准 C++、ATL、MFC、C++ AMP 和 OpenMP。 
+
+
+支持的操作系统：
+
+Windows 7 Service Pack 1, Windows 8, Windows 8.1, Windows Server 2003, Windows Server 2008 R2 SP1, Windows Server 2008 Service Pack 2, Windows Server 2012, Windows Server 2012 R2, Windows Vista Service Pack 2, Windows XP 
+
+硬件要求： 
+
+•1.6 GHz 或更快的处理器
+•1 GB RAM（如果在虚拟机上运行，则为 1.5 GB）
+•10 GB 的可用硬盘空间
+•5400 RPM 硬盘
+•以 1024 x 768 或更高显示分辨率运行的支持 DirectX 9 的视频卡
+
+
+其他要求： 
+
+•对于 Windows 8.1 和 Windows Server 2012 R2，需要安装 KB2883200（可通过 Windows Update 获取）。
+
+
+游侠补丁网是目前国内最大的搜集整理游戏补丁的补丁仓库：这里不仅有游侠原创的中文游戏补丁，还有搜集整理自国外网站的英文游戏补丁，以及众多国内玩家自己原创的各种补丁。
+游侠补丁网从不标榜原创，而是以玩家的需要为第一选择，原创补丁和搜集补丁并重。同时我们谢绝盗链，所有补丁中都有本站的说明及标记！
+
+游侠补丁网：http://patch.ali213.net

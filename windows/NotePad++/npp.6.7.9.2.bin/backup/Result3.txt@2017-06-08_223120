@@ -1,0 +1,22 @@
+﻿[2017/06/08 21:29:52:758]Exception in file:D:\DB\txt\Split\天涯论坛4000w数据(1)0005.txt
+引发类型为“System.OutOfMemoryException”的异常。
+   在 System.String.CtorCharArrayStartLength(Char[] value, Int32 startIndex, Int32 length)
+   在 System.IO.StreamReader.ReadLine()
+   在 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   在 System.IO.File.ReadAllLines(String path)
+   在 SearchString.Program.<>c__DisplayClass5.<Main>b__1(Int32 i) 位置 E:\MyProjects\Utils\SearchString\Program.cs:行号 74
+[2017/06/08 21:30:07:080]Exception in file:D:\DB\txt\Split\xiaomi_com0001.txt
+引发类型为“System.OutOfMemoryException”的异常。
+   在 System.String.CtorCharArrayStartLength(Char[] value, Int32 startIndex, Int32 length)
+   在 System.IO.StreamReader.ReadLine()
+   在 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   在 System.IO.File.ReadAllLines(String path)
+   在 SearchString.Program.<>c__DisplayClass5.<Main>b__1(Int32 i) 位置 E:\MyProjects\Utils\SearchString\Program.cs:行号 74
+[2017/06/08 21:30:15:854]Exception in file:D:\DB\txt\Split\xiaomi_com0002.txt
+引发类型为“System.OutOfMemoryException”的异常。
+   在 System.String.CtorCharArrayStartLength(Char[] value, Int32 startIndex, Int32 length)
+   在 System.IO.StreamReader.ReadLine()
+   在 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   在 System.IO.File.ReadAllLines(String path)
+   在 SearchString.Program.<>c__DisplayClass5.<Main>b__1(Int32 i) 位置 E:\MyProjects\Utils\SearchString\Program.cs:行号 74
+[2017/06/08 21:31:15:892]Process finished of file:D:\DB\txt\ZongHe\3000W_14893\Split\KTCY0001.txt

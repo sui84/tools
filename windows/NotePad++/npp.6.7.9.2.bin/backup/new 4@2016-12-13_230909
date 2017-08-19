@@ -1,0 +1,37 @@
+Request URL:http://i.baidu.com/history/list
+Request Method:POST
+Status Code:200 OK
+Remote Address:61.135.185.175:80
+Response Headers
+view source
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection:keep-alive
+Content-Type:application/json; charset=UTF-8
+Date:Tue, 13 Dec 2016 15:05:38 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:no-cache
+Server:nginx
+Transfer-Encoding:chunked
+X-Powered-By:PHP/5.3.24
+Request Headers
+view source
+Accept:*/*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.8
+Connection:keep-alive
+Content-Length:107
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:BAIDUID=B6768C0069382B9715DB064F515B9060:FG=1; PHPSESSID=b95ssiscor27b7a4v4uup703a4; BDUSS=9QSUgxMGdsM0EyZmdWM1J4WFlTUTlXSmdNeWp-SjlpaDNDR3hrZW15RmhtbmRZSVFBQUFBJCQAAAAAAAAAAAEAAAADcQ0SwfnUwmHQocOoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGENUFhhDVBYQ0; Hm_lvt_4010fd5075fcfe46a16ec4cb65e02f04=1481437934,1481632069,1481641287; Hm_lpvt_4010fd5075fcfe46a16ec4cb65e02f04=1481641503
+Host:i.baidu.com
+Origin:http://i.baidu.com
+Referer:http://i.baidu.com/my/history
+User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Form Data
+view source
+view URL encoded
+channel:201,202,300,301,302,303,400,100,500,501,505
+ts:1480845795
+after:0
+page:1
+query:

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.baidu.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E8%BD%AF%E4%BB%B6%E5%9B%AD&ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&bs=%E8%A5%BF%E8%A5%BF%E8%BD%AF%E4%BB%B6%E5%9B%AD
+IconFile=http://www.baidu.com/favicon.ico
+IconIndex=1
+Modified=E0DA57F4F1F3CF01B9

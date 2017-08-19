@@ -1,0 +1,21 @@
+标题: Microsoft SQL Server Management Studio
+------------------------------
+
+与链接服务器的测试连接失败。
+
+------------------------------
+其他信息:
+
+执行 Transact-SQL 语句或批处理时发生了异常。 (Microsoft.SqlServer.ConnectionInfo)
+
+------------------------------
+
+用户 'system' 登录失败。 (Microsoft SQL Server，错误: 18456)
+
+有关帮助信息，请单击: http://go.microsoft.com/fwlink?ProdName=Microsoft%20SQL%20Server&ProdVer=11.00.3128&EvtSrc=MSSQLServer&EvtID=18456&LinkId=20476
+
+------------------------------
+按钮:
+
+确定
+------------------------------

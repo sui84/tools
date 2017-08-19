@@ -1,0 +1,23 @@
+标题: Microsoft SQL Server Management Studio
+------------------------------
+
+无法为该请求检索数据。 (Microsoft.SqlServer.Management.Sdk.Sfc)
+
+有关帮助信息，请单击: http://go.microsoft.com/fwlink?ProdName=Microsoft%20SQL%20Server&LinkId=20476
+
+------------------------------
+其他信息:
+
+执行 Transact-SQL 语句或批处理时发生了异常。 (Microsoft.SqlServer.ConnectionInfo)
+
+------------------------------
+
+无法初始化链接服务器“MySQL”的 OLE DB 访问接口“MSDASQL”的数据源对象。 (Microsoft SQL Server，错误: 7303)
+
+有关帮助信息，请单击: http://go.microsoft.com/fwlink?ProdName=Microsoft%20SQL%20Server&ProdVer=11.00.3128&EvtSrc=MSSQLServer&EvtID=7303&LinkId=20476
+
+------------------------------
+按钮:
+
+确定
+------------------------------

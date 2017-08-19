@@ -1,0 +1,97 @@
+# -*- coding: utf8 -*-
+import urllib2
+import urllib
+import cookielib
+import re
+import bs4
+import json
+import time
+import Cookie
+import random
+import datetime
+import requests
+#import syslog
+#import requests
+
+url = 'http://i.baidu.com/history/list'
+mapUrls0 = ["http://map.baidu.com/?newmap=1&reqflag=pcmap&biz=1&from=webmap&da_par=baidu&pcevaname=pc3&qt=usync&mode=hdownload&subkey=routehistory&t=1482654968184"
+,"http://map.baidu.com/?newmap=1&reqflag=pcmap&biz=1&from=webmap&da_par=direct&pcevaname=pc3&qt=usync&mode=hdownload&subkey=poihistory&t=1482664731036"]
+#地铁线 mapUrl2 = "http://map.baidu.com/?qt=bsi&c=131&t=1482654965245"
+mapUrls = ["http://map.baidu.com/?newmap=1&reqflag=pcmap&biz=1&from=webmap&da_par=direct&pcevaname=pc3&qt=fav&mode=get&type=favdata&limit=100&lastver=0&t=1482664731025",
+"http://map.baidu.com/?newmap=1&reqflag=pcmap&biz=1&from=webmap&da_par=direct&pcevaname=pc3&qt=usync&mode=sync&t=1482664731031"]
+from pymongo import MongoClient
+client = MongoClient('127.0.0.1', 27017)
+db = client["Collections"]#数据库名
+table=db['ts']#表名
+data = table.find({"name":"xujf"})
+laststart = data[0]["ts_start"]
+#db.ts.update({"name":"xujf"},{"$set":{"ts_start":1482418412}})
+
+#paras = {'channel':'201,202,300,301,302,303,400,100,500,501,505','ts':1475402100,'after':0,'page':25,'query':''}
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) ' +
+                  'Chrome/54.0.2840.87 Safari/537.3',
+
+'Cookie': 'BIDUPSID=B6768C0069382B9715DB064F515B9060; PSTM=1482052025; BAIDUID=C3AD9E4A629727CBA7A741A9F6AFF48D:FG=1; '+'BDUSS=pYQ1FHMU1TOWNKd2tyRWNtVmduS01EVGVYUTB1d2dnNE5kd3RaVlV1N0xFWWRZSUFBQUFBJCQAAAAAAAAAAAEAAAADcQ0SwfnUwmHQocOoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'+'AAAAMuEX1jLhF9YR0; BDRCVFR[feWj1Vr5u3D]=I67x6TjHwwYf0; PSINO=7; H_PS_PSSID=1467_12897_21109_17001_21802_21553_21616_20928; force=oldsample; validate=97065; M_LG_UID=302870787; '+'M_LG_SALT=849699c075c765db76669caaf781e401; MCITY=-%3A'
+}
+
+data=requests.get(url, headers=headers);
+#data=requests.post(url, data=paras,headers=headers);
+content=data.text;
+print content;
+# 3. save to mongodb
+table=db['his_x']#表名
+hjson = json.loads(content, encoding='utf-8');
+arr = hjson['data']['list']
+print len(arr)
+if (len(arr) >0 and hjson['data']['ts_start']>laststart):
+	laststart = hjson['data']['ts_start']
+	table.save(hjson)
+	cnt = 0
+	#table.insert({'id':'1','name':'cnki'})
+	while (len(arr) >0 and hjson['data']['ts_start']>laststart):
+		cnt = cnt + len(arr)
+		tdate = hjson['data']['ts_start']
+		table.save(hjson)
+		paras = {'channel':'201,202,300,301,302,303,400,100,500,501,505','ts':tdate,'after':0,'page':25,'query':''}
+		data=requests.post(url, data=paras,headers=headers);
+		content=data.text;
+		print content.encode('gbk');
+		hjson = json.loads(content, encoding='utf-8');
+		arr = hjson['data']['list']
+	
+	#print tdate	
+	print cnt
+	#table=db['ts']#表名	
+	#table.insert({'name':'xujf','time':time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())),'ts_start':tdate})
+	db.ts.update({"name":"xujf"},{"$set":{'time':time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())),"ts_start":laststart}})
+
+	'''
+s = u'\\uff0c\\u73b0\\u573aRose\\u732e\\u6b4c\\u906d\\u4f17\\u4eba\\u56f4\\u89c2'
+ss = s.encode('utf8')
+x = json.loads('{"foo":"%s"}' % ss)
+print x['foo']
+'''
+
+table=db['map_x']#表名
+i=0;
+print mapUrls0[0],mapUrls0[1]
+while i<len(mapUrls0):
+	mapdata3=requests.get(mapUrls0[i], headers=headers).text;
+	mjson3 = json.loads(mapdata3, encoding='utf-8');
+	for elem in mjson3["tsync"]["download"]:
+		print elem["detail"]
+		elem["detail"] =  elem["detail"].decode("unicode-escape")
+	table.save(mjson3)
+	i = i+1;
+
+i=0;
+while i<len(mapUrls):
+	mapdata3=requests.get(mapUrls[i], headers=headers).text;
+	mjson3 = json.loads(mapdata3, encoding='utf-8');
+	table.save(mjson3)
+	i = i+1;
+	
+
+
+

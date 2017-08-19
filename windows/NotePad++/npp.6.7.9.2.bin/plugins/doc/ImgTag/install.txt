@@ -1,0 +1,12 @@
+IMGTAG - licensed under the GPLv3 (http://www.gnu.org/licenses/gpl.html).
+
+INSTALLATION AND SETUP
+
+To use this plugin you have to copy:
+-  ImgTag.dll to Notepad++\plugins\ folder;
+-  FreeImage.dll and FreeImagePlus.dll to Windows\System32 folder.
+
+
+This software uses the FreeImage open source image library. See http://freeimage.sourceforge.net for details.
+
+FreeImage is used under the GNU GPL, version 3. 

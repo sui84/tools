@@ -1,0 +1,12 @@
+cd E:\01_SOFT\MySQL\mysql-5.6.24-win32\bin
+mysql -u root -p
+show processlist;
+select version(),current_date();
+
+[mysqld]
+
+log_bin
+slow_query_log
+general_log
+
+show variables like '%log%';

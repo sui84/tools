@@ -1,0 +1,172 @@
+Version 0.9.15: [07/30/10]
+--------------------
++ Added handling of .co TLD
+
+Version 0.9.14: [09/07/08]
+--------------------
++ Added better handling of .ae TLD
++ Added .asia and .me support
++ Updated a number of TLDs. 
+
+Version 0.9.13: [06/18/07]
+--------------------
++ Added .mobi TLD
+x Fixed handling of net.uk and gov.uk domains.
+x Added time-out support. This should prevent win32whois from hanging.
+x Code cleanup.
+
+Version 0.9.12: [11/09/06]
+--------------------
+x Updated handling of .ar, .ee and .my domains.
+
+Version 0.9.11: [04/04/06]
+--------------------
++ Added optional RWhois support (Experimental).
+x Fixed Proxy dialog handling. It should be modal now and should use proper font.
+x Huge update of internal TLDs.
+
+Version 0.9.10: [01/18/06]
+--------------------
++ Added me.uk, bbs.tr, gen.tr, gov.tr, mil.tr, net.tr, org.tr, k12.tr and nom.tr TLDs
++ Added com.ua, edu.ua, gov.ua and net.ua TLDs
+x Trying to fix some small parsing issues.
+
+Version 0.9.9: [12/23/05]
+--------------------
++ Added .eu TLD.
+x Fixed an ugly bug in proxy handling. It should now be working again.
+x Fixed handling of *.com.mx based domains.
+x Renamed HTTP to HTTPS in the proxy settings since we only use HTTPS Connect method.
+x Added a timeout to our requests. If we don't receive a response within 10 seconds we timeout.
+x You should now be able to cancel the process. (Previous code wasn't very reliable)
+x Updated .tr TLD information.
+
+Version 0.9.8: [10/23/05]
+--------------------
++ Added .io TLD.
++ Added .my - Malaysian TLD. 
++ Added a menu to clear history (clears the dropdown list).
+x Fixed handling of org.uk based domains.
+x Fixed parsing of e-mail addresses.
+x Various other small cleanups/fixes.
+
+Version 0.9.7: [06/04/05]
+--------------------
+x Fixing parsing for co.uk and co.il based domains.
+x Fixed detection of whois server.
+x Fixed parsing/detection of e-mail addresses.
+x Various other small cleanups/fixes.
+
+Version 0.9.6: [05/05/05]
+--------------------
+x File->Save now defaults to My Documents (per XP specs).
+x Fixed hostname parsing in order to improve guessing the domain name. (Should 
+  fix x.x.x.x.aaa.domain.tld hostnames)
+
+Version 0.9.5: [04/22/05]
+--------------------
++ Added code to be Windows XP compliant. It will read/write to user's Application directory if win32whois.ini is not found in the same directory as win32whois.exe
++ Updated kz domain whois server.
+x Fixed WordWrap, wasn't setting it properly on startup.
+x Fixed various focus issues. Hopefully found all of them.
+x Results parsing performance improvements.
+x Code cleanup: removing some unused variables and rewriting some internal pieces.
+x Fixed a bunch of bugs.
+
+Version 0.9.4: [03/08/05]
+--------------------
++ Now sets focus to the results section so you could scroll using keyboard.
++ Added WordWrap.
+x Fixed a bug with SOCKS5 Authentication.
+x Cleanup output.
+x Code cleanup and fixed a few small bugs.
+
+Version 0.9.3: [03/01/05]
+--------------------
++ Added Go button.
++ Added Windows XP Theme support.
++ Added Basic HTTP and SOCKS4a/5 proxy authentication.
++ Added "Resolve hostname through proxy".
++ Now changes the window title to reflect the search string.
+x Fixed synchronization of checked domains when multiple instances of win32whois are running.
+x Fixed various small bugs.
+x Cleaned up output parsing.
+
+Version 0.9.2: [01/11/05]
+--------------------
++ Added basic HTTP/Socks4/Socks5 Proxy support [w/ debug]
+x Fixed a typo in the name of the polish whois server.
+
+Version 0.9.1: [11/07/04]
+--------------------
++ Added vertical scrollbar to the dropdown window.
++ Increased the size of the dropdown.
++ Code cleanup. Less code, smaller exe. :)
++ Added ".tv" TLD.
++ Added support for <TAB> key which now changes focus between the domain name and results.
++ ALT+Space now works again.
+
+Version 0.9: [09/28/04]
+--------------------
++ Improved information display.
++ You can now disable Domain, Reverse IP and Abuse information retrieval.
++ Better handling of the recent domains/ips list.
++ Added win32whois.ini file support to store the configuration and last used list. (up to 100)
++ Updated list of TLD servers.
++ Removed the code dependant on IPHLPAPI. That DLL is not used/needed any more.
++ About dialog code cleanup.
++ Improved server parsing and error reporting. Should resolve some of the reported issues.
+
+Version 0.8: [10/14/03]
+--------------------
+x Fixed DNS Server handling.
+x Fixed About dialog.
++ Added reporting of DNS Server.
++ Cleaned up initial output a little.
++ Updated the whois server for ".sa" domains.
+
+Version 0.7: [04/04/03]
+--------------------
+x Fixed a crash in the DNS client parser.
+x Fixed handling of IP addresses.
++ Updated the whois server for ".org" domain.
+
+Version 0.6: [03/13/03]
+--------------------
++ Added e-mail address detection code.
++ Added simple DNS client code in order to improve actual domain detection code.
++ Added support for showing what this host is an alias to.
++ Added whitespace stripping code.
++ Added simple URL parsing.
++ Major code cleanup/rewrite.
++ Number of new bugs fixed/introduced.
+
+Version 0.5: [02/13/03]
+--------------------
++ Added simple colors for different types of information.
++ Added Right Click menu. (Copy/Select+All)
++ Added File->Save feature.
++ Added code to get the abuse information for a domain.
+
+Version 0.4: [12/04/02]
+--------------------
++ Updated internal TLD list. (Added some new top level domains)
+x Fixed an command-line parsing bug.
+
+Version 0.3: [11/05/02]
+--------------------
++ Added command-line support. (lets your specify domain or ip on the command-line)
++ Added support for IP addresses.
++ Added support for unsigned long for of IP address.
+x Fixed a number of bugs.
+
+Version 0.2: [10/22/02]
+--------------------
++ Major rewrite of the GUI and the back-end code.
++ A number of new TLD domains added/updated.
++ Added a few special options for specific WHOIS servers.
+x Fixed TCP/IP request to be WHOIS protocol compliant. (Prior version was broken and would not work with a number of servers)
+
+Version 0.1: [09/20/02]
+--------------------
+* First public release
