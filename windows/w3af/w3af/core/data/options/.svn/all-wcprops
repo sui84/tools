@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/w3af/!svn/ver/4256/trunk/core/data/options
+END
+comboOption.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/1436/trunk/core/data/options/comboOption.py
+END
+option.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/4256/trunk/core/data/options/option.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/898/trunk/core/data/options/__init__.py
+END
+preferences.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/4032/trunk/core/data/options/preferences.py
+END
+optionList.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/2546/trunk/core/data/options/optionList.py
+END

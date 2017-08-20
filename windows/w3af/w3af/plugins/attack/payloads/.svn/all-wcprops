@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/w3af/!svn/ver/4177/trunk/plugins/attack/payloads
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/2366/trunk/plugins/attack/payloads/__init__.py
+END
+base_payload.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/3645/trunk/plugins/attack/payloads/base_payload.py
+END
+shell_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/3650/trunk/plugins/attack/payloads/shell_handler.py
+END
+payload_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/3640/trunk/plugins/attack/payloads/payload_handler.py
+END

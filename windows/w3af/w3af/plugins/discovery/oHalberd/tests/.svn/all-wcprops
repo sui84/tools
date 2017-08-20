@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/3653/trunk/plugins/discovery/oHalberd/tests
+END
+test_clues_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/tests/test_clues_file.py
+END
+test_clues_analysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/tests/test_clues_analysis.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/tests/__init__.py
+END
+test_clues_Clue.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/tests/test_clues_Clue.py
+END
+test_clientlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/w3af/!svn/ver/3653/trunk/plugins/discovery/oHalberd/tests/test_clientlib.py
+END

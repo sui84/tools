@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/w3af/!svn/ver/1224/trunk/extlib/cluster
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/LICENSE
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/INSTALL
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/1224/trunk/extlib/cluster/__init__.py
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/setup.py
+END
+cluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/cluster.py
+END
+makedist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/makedist.sh
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/MANIFEST.in
+END
+clusterTests.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/clusterTests.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/README
+END
+cluster.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/cluster.bmp
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/1208/trunk/extlib/cluster/setup.cfg
+END

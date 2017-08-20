@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/w3af/!svn/ver/611/trunk/extlib/pyPdf/pyPdf
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/611/trunk/extlib/pyPdf/pyPdf/filters.py
+END
+pdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/611/trunk/extlib/pyPdf/pyPdf/pdf.py
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/611/trunk/extlib/pyPdf/pyPdf/generic.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/611/trunk/extlib/pyPdf/pyPdf/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/611/trunk/extlib/pyPdf/pyPdf/utils.py
+END

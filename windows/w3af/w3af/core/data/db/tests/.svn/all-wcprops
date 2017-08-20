@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/w3af/!svn/ver/3809/trunk/core/data/db/tests
+END
+test_temp_persist.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/3787/trunk/core/data/db/tests/test_temp_persist.py
+END

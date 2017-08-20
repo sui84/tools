@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/3809/trunk/plugins/grep/user_defined_regex
+END
+exampleRegexesErrors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/w3af/!svn/ver/3623/trunk/plugins/grep/user_defined_regex/exampleRegexesErrors.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/3623/trunk/plugins/grep/user_defined_regex/README.txt
+END

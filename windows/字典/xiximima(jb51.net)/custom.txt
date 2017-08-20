@@ -1,0 +1,7 @@
+beijing
+hubei
+jingmen
+shanghai
+guangdong
+guangzhou
+dongguan

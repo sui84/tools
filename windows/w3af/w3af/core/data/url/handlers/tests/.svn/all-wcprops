@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/3809/trunk/core/data/url/handlers/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/3794/trunk/core/data/url/handlers/tests/__init__.py
+END
+test_keepalive.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/w3af/!svn/ver/3794/trunk/core/data/url/handlers/tests/test_keepalive.py
+END

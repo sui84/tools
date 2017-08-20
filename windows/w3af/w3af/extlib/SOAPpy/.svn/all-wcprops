@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/w3af/!svn/ver/2510/trunk/extlib/SOAPpy
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/LICENSE
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/TODO
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/__init__.py
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/PKG-INFO
+END
+RELEASE_INFO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/RELEASE_INFO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/README
+END

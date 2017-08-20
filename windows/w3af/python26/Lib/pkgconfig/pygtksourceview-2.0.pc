@@ -1,0 +1,11 @@
+prefix=C:/Python26
+exec_prefix=${prefix}/bin
+includedir=${prefix}/include
+datarootdir=${prefix}/share
+datadir=${prefix}/share
+
+Name: PyGtkSourceView
+Description: Python bindings for GtkSourceView
+Requires: gtksourceview-2.0
+Version: 2.10.0
+

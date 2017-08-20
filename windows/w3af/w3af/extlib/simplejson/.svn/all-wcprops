@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/w3af/!svn/ver/4038/trunk/extlib/simplejson
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/3582/trunk/extlib/simplejson/scanner.py
+END
+tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/3582/trunk/extlib/simplejson/tool.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/3582/trunk/extlib/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/3582/trunk/extlib/simplejson/encoder.py
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/3582/trunk/extlib/simplejson/decoder.py
+END
+ordered_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/3582/trunk/extlib/simplejson/ordered_dict.py
+END

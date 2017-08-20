@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/mangle
+END
+sed.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/mangle/sed.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/2230/trunk/plugins/mangle/__init__.py
+END

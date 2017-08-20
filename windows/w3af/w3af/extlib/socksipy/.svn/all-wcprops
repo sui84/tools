@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/w3af/!svn/ver/611/trunk/extlib/socksipy
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/611/trunk/extlib/socksipy/__init__.py
+END
+socks.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/w3af/!svn/ver/611/trunk/extlib/socksipy/socks.py
+END

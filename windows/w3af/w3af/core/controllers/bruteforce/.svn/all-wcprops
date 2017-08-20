@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/4280/trunk/core/controllers/bruteforce
+END
+users.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/851/trunk/core/controllers/bruteforce/users.txt
+END
+passwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/w3af/!svn/ver/2757/trunk/core/controllers/bruteforce/passwords.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/851/trunk/core/controllers/bruteforce/__init__.py
+END
+bruteforcer.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/4280/trunk/core/controllers/bruteforce/bruteforcer.py
+END

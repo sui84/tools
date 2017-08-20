@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 9
+*.py[co]
+
+K 13
+svn:mergeinfo
+V 62
+/branches/urlobject:3702-4112
+/branches/web-payloads:3280-3524
+END

@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/w3af/!svn/ver/4285/trunk/plugins/discovery
+END
+fingerPKS.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/fingerPKS.py
+END
+fingerprint_os.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/fingerprint_os.py
+END
+phishtank.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/phishtank.py
+END
+frontpage_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/frontpage_version.py
+END
+robotsReader.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/robotsReader.py
+END
+xssedDotCom.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/xssedDotCom.py
+END
+importResults.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4179/trunk/plugins/discovery/importResults.py
+END
+detectTransparentProxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/w3af/!svn/ver/3854/trunk/plugins/discovery/detectTransparentProxy.py
+END
+oracleDiscovery.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/oracleDiscovery.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/2230/trunk/plugins/discovery/__init__.py
+END
+dir_bruter.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/dir_bruter.py
+END
+halberd.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/halberd.py
+END
+findvhost.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/findvhost.py
+END
+pykto.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4237/trunk/plugins/discovery/pykto.py
+END
+webDiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/webDiff.py
+END
+fingerGoogle.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/fingerGoogle.py
+END
+fingerBing.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/fingerBing.py
+END
+ria_enumerator.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/ria_enumerator.py
+END
+zone_h.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/zone_h.py
+END
+googleSpider.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/googleSpider.py
+END
+webSpider.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4190/trunk/plugins/discovery/webSpider.py
+END
+fingerprint_WAF.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/3854/trunk/plugins/discovery/fingerprint_WAF.py
+END
+findBackdoor.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/findBackdoor.py
+END
+hmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/4237/trunk/plugins/discovery/hmap.py
+END
+yahooSiteExplorer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/yahooSiteExplorer.py
+END
+digitSum.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/digitSum.py
+END
+afd.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/afd.py
+END
+dotNetErrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/dotNetErrors.py
+END
+http_vs_https_dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/4266/trunk/plugins/discovery/http_vs_https_dist.py
+END
+urllist_txt.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/urllist_txt.py
+END
+phpEggs.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/phpEggs.py
+END
+favicon_identification.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/favicon_identification.py
+END
+dnsWildcard.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/4238/trunk/plugins/discovery/dnsWildcard.py
+END
+wordpress_fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/wordpress_fingerprint.py
+END
+archiveDotOrg.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4135/trunk/plugins/discovery/archiveDotOrg.py
+END
+findDVCS.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/4285/trunk/plugins/discovery/findDVCS.py
+END
+wsdlFinder.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/wsdlFinder.py
+END
+sharedHosting.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/sharedHosting.py
+END
+phpinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/phpinfo.py
+END
+ghdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/ghdb.py
+END
+detectReverseProxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/3854/trunk/plugins/discovery/detectReverseProxy.py
+END
+urlFuzzer.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/urlFuzzer.py
+END
+serverStatus.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/serverStatus.py
+END
+content_negotiation.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/content_negotiation.py
+END
+slash.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/slash.py
+END
+allowedMethods.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/allowedMethods.py
+END
+domain_dot.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/domain_dot.py
+END
+userDir.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/userDir.py
+END
+serverHeader.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/3862/trunk/plugins/discovery/serverHeader.py
+END
+spiderMan.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4188/trunk/plugins/discovery/spiderMan.py
+END
+wordnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/wordnet.py
+END
+findGit.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/findGit.py
+END
+bing_spider.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/bing_spider.py
+END
+sitemapReader.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/sitemapReader.py
+END
+findCaptchas.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/discovery/findCaptchas.py
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/w3af/!svn/ver/3653/trunk/core/data/constants
+END
+w3afPorts.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/3206/trunk/core/data/constants/w3afPorts.py
+END
+severity.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/core/data/constants/severity.py
+END
+httpConstants.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/851/trunk/core/data/constants/httpConstants.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/851/trunk/core/data/constants/__init__.py
+END
+common_directories.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/w3af/!svn/ver/3653/trunk/core/data/constants/common_directories.py
+END
+dbms.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/2015/trunk/core/data/constants/dbms.py
+END
+browsers.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/2056/trunk/core/data/constants/browsers.py
+END

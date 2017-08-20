@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/w3af/!svn/ver/1858/trunk/core/ui/consoleUi/io
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/1092/trunk/core/ui/consoleUi/io/common.py
+END
+unixctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/1858/trunk/core/ui/consoleUi/io/unixctrl.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/1092/trunk/core/ui/consoleUi/io/__init__.py
+END
+console.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/1401/trunk/core/ui/consoleUi/io/console.py
+END
+winctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/1858/trunk/core/ui/consoleUi/io/winctrl.py
+END

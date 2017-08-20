@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/w3af/!svn/ver/4233/trunk/plugins/output
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/2230/trunk/plugins/output/__init__.py
+END
+xmlFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/3865/trunk/plugins/output/xmlFile.py
+END
+console.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/4233/trunk/plugins/output/console.py
+END
+emailReport.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/4101/trunk/plugins/output/emailReport.py
+END
+htmlFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4164/trunk/plugins/output/htmlFile.py
+END
+textFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/output/textFile.py
+END
+gtkOutput.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/4138/trunk/plugins/output/gtkOutput.py
+END

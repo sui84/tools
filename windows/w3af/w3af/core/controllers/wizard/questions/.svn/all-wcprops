@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/3084/trunk/core/controllers/wizard/questions
+END
+question_infrastructure_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/questions/question_infrastructure_2.py
+END
+question_infrastructure_3.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/questions/question_infrastructure_3.py
+END
+question_infrastructure_4.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/questions/question_infrastructure_4.py
+END
+question_target_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/questions/question_target_1.py
+END
+question_target_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/questions/question_target_2.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/w3af/!svn/ver/1331/trunk/core/controllers/wizard/questions/__init__.py
+END
+question_infrastructure_internet_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/questions/question_infrastructure_internet_1.py
+END
+question_infrastructure_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/w3af/!svn/ver/3084/trunk/core/controllers/wizard/questions/question_infrastructure_1.py
+END

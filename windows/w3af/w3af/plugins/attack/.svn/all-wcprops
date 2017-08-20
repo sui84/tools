@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/w3af/!svn/ver/4196/trunk/plugins/attack
+END
+fileUploadShell.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/fileUploadShell.py
+END
+localFileReader.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/localFileReader.py
+END
+sqlmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/sqlmap.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/2230/trunk/plugins/attack/__init__.py
+END
+proxyGenerator.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/851/trunk/plugins/attack/proxyGenerator.txt
+END
+xssBeef.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/4196/trunk/plugins/attack/xssBeef.py
+END
+davShell.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/davShell.py
+END
+rfiProxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/rfiProxy.py
+END
+sql_webshell.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4181/trunk/plugins/attack/sql_webshell.py
+END
+osCommandingShell.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/osCommandingShell.py
+END
+eval.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/w3af/!svn/ver/4148/trunk/plugins/attack/eval.py
+END
+remoteFileIncludeShell.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/attack/remoteFileIncludeShell.py
+END

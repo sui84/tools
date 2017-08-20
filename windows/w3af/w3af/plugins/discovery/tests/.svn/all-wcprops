@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/w3af/!svn/ver/4230/trunk/plugins/discovery/tests
+END
+test_http_vs_https_dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/w3af/!svn/ver/4230/trunk/plugins/discovery/tests/test_http_vs_https_dist.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/3878/trunk/plugins/discovery/tests/__init__.py
+END

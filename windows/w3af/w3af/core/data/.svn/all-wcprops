@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/w3af/!svn/ver/4281/trunk/core/data
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/w3af/!svn/ver/851/trunk/core/data/__init__.py
+END
+getResponseType.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/851/trunk/core/data/getResponseType.py
+END
+timeAnalysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/w3af/!svn/ver/851/trunk/core/data/timeAnalysis.py
+END
+exchangableMethods.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/core/data/exchangableMethods.py
+END

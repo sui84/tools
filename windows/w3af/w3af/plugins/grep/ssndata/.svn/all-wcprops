@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/grep/ssndata
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/3733/trunk/plugins/grep/ssndata/__init__.py
+END
+ssnAreasGroups.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/grep/ssndata/ssnAreasGroups.py
+END

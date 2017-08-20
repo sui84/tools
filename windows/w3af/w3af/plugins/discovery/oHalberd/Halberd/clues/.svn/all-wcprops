@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/3653/trunk/plugins/discovery/oHalberd/Halberd/clues
+END
+Clue.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/w3af/!svn/ver/3653/trunk/plugins/discovery/oHalberd/Halberd/clues/Clue.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/Halberd/clues/__init__.py
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/Halberd/clues/file.py
+END
+analysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/w3af/!svn/ver/611/trunk/plugins/discovery/oHalberd/Halberd/clues/analysis.py
+END

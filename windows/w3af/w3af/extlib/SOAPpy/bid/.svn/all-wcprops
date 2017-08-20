@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/bid
+END
+inventoryClient.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/bid/inventoryClient.py
+END
+inventoryServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/bid/inventoryServer.py
+END
+monitorClient.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/bid/monitorClient.py
+END

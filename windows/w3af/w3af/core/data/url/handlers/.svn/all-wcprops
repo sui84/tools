@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/w3af/!svn/ver/4239/trunk/core/data/url/handlers
+END
+HTTPNtlmAuthHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/w3af/!svn/ver/3141/trunk/core/data/url/handlers/HTTPNtlmAuthHandler.py
+END
+certHTTPSHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/1735/trunk/core/data/url/handlers/certHTTPSHandler.py
+END
+localCache.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/4239/trunk/core/data/url/handlers/localCache.py
+END
+FastHTTPBasicAuthHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/w3af/!svn/ver/2573/trunk/core/data/url/handlers/FastHTTPBasicAuthHandler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/851/trunk/core/data/url/handlers/__init__.py
+END
+logHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/4129/trunk/core/data/url/handlers/logHandler.py
+END
+mangleHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/4129/trunk/core/data/url/handlers/mangleHandler.py
+END
+urlParameterHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/w3af/!svn/ver/4162/trunk/core/data/url/handlers/urlParameterHandler.py
+END
+MultipartPostHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/w3af/!svn/ver/3850/trunk/core/data/url/handlers/MultipartPostHandler.py
+END
+keepalive.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/4229/trunk/core/data/url/handlers/keepalive.py
+END
+gzip_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/3204/trunk/core/data/url/handlers/gzip_handler.py
+END

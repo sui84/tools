@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/w3af/!svn/ver/3899/trunk/core/controllers/extrusionScanning/server
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/w3af/!svn/ver/851/trunk/core/controllers/extrusionScanning/server/__init__.py
+END
+extrusionServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/w3af/!svn/ver/3899/trunk/core/controllers/extrusionScanning/server/extrusionServer.py
+END

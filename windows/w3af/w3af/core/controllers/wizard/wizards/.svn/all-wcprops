@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/wizards
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/w3af/!svn/ver/1331/trunk/core/controllers/wizard/wizards/__init__.py
+END
+short_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/wizards/short_wizard.py
+END
+infrastructure.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/w3af/!svn/ver/2548/trunk/core/controllers/wizard/wizards/infrastructure.py
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy
+END
+Parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Parser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/__init__.py
+END
+SOAP.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/SOAP.py
+END
+Types.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Types.py
+END
+Config.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Config.py
+END
+Server.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Server.py
+END
+WSDL.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/WSDL.py
+END
+SOAPBuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/SOAPBuilder.py
+END
+GSIServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/GSIServer.py
+END
+Utilities.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Utilities.py
+END
+URLopener.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/URLopener.py
+END
+Errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Errors.py
+END
+Client.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/Client.py
+END
+NS.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/NS.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/SOAPpy/version.py
+END

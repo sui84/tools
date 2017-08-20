@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/3976/trunk/core/controllers/sql_tools
+END
+blind_sqli_time_delay.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/w3af/!svn/ver/2448/trunk/core/controllers/sql_tools/blind_sqli_time_delay.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/2012/trunk/core/controllers/sql_tools/__init__.py
+END
+blind_sqli_response_diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/w3af/!svn/ver/3976/trunk/core/controllers/sql_tools/blind_sqli_response_diff.py
+END

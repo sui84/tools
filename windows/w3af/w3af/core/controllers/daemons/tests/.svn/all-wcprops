@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4143/trunk/core/controllers/daemons/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/4143/trunk/core/controllers/daemons/tests/__init__.py
+END
+test_proxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/w3af/!svn/ver/4143/trunk/core/controllers/daemons/tests/test_proxy.py
+END

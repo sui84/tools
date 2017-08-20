@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/validate
+END
+silabclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/validate/silabclient.py
+END
+silab.servers
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/validate/silab.servers
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/validate/server.pem
+END
+silabserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/validate/silabserver.py
+END
+soapware.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/validate/soapware.py
+END

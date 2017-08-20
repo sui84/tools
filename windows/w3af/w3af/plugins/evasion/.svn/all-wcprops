@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/w3af/!svn/ver/4282/trunk/plugins/evasion
+END
+selfReference.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/selfReference.py
+END
+shiftOutShiftInBetweenDots.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/shiftOutShiftInBetweenDots.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/2230/trunk/plugins/evasion/__init__.py
+END
+rndCase.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4282/trunk/plugins/evasion/rndCase.py
+END
+backSpaceBetweenDots.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/backSpaceBetweenDots.py
+END
+fullWidthEncode.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/fullWidthEncode.py
+END
+rndPath.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/rndPath.py
+END
+reversedSlashes.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/reversedSlashes.py
+END
+rndParam.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/rndParam.py
+END
+rndHexEncode.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/4113/trunk/plugins/evasion/rndHexEncode.py
+END
+modsecurity.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4185/trunk/plugins/evasion/modsecurity.py
+END

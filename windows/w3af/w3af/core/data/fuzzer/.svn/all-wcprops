@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/w3af/!svn/ver/4280/trunk/core/data/fuzzer
+END
+mutant.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4280/trunk/core/data/fuzzer/mutant.py
+END
+mutantPostData.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/1588/trunk/core/data/fuzzer/mutantPostData.py
+END
+mutantFileName.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4252/trunk/core/data/fuzzer/mutantFileName.py
+END
+mutantQs.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/4167/trunk/core/data/fuzzer/mutantQs.py
+END
+mutantXMLRPC.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/3197/trunk/core/data/fuzzer/mutantXMLRPC.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/851/trunk/core/data/fuzzer/__init__.py
+END
+formFiller.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4166/trunk/core/data/fuzzer/formFiller.py
+END
+mutantCookie.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/3139/trunk/core/data/fuzzer/mutantCookie.py
+END
+mutantJSON.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/3194/trunk/core/data/fuzzer/mutantJSON.py
+END
+mutantFileContent.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/w3af/!svn/ver/2350/trunk/core/data/fuzzer/mutantFileContent.py
+END
+mutantHeaders.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/1588/trunk/core/data/fuzzer/mutantHeaders.py
+END
+fuzzer.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4252/trunk/core/data/fuzzer/fuzzer.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/contrib
+END
+soap_cli.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/contrib/soap_cli.py
+END
+soap_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/851/trunk/extlib/SOAPpy/contrib/soap_handler.py
+END

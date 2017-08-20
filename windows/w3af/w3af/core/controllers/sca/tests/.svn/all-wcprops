@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/w3af/!svn/ver/4080/trunk/core/controllers/sca/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/4073/trunk/core/controllers/sca/tests/__init__.py
+END
+test_sca.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/4080/trunk/core/controllers/sca/tests/test_sca.py
+END

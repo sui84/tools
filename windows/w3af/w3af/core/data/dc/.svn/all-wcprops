@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/w3af/!svn/ver/4280/trunk/core/data/dc
+END
+cookie.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/w3af/!svn/ver/2756/trunk/core/data/dc/cookie.py
+END
+dataContainer.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/w3af/!svn/ver/4195/trunk/core/data/dc/dataContainer.py
+END
+queryString.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/w3af/!svn/ver/3592/trunk/core/data/dc/queryString.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/w3af/!svn/ver/851/trunk/core/data/dc/__init__.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/w3af/!svn/ver/4280/trunk/core/data/dc/form.py
+END

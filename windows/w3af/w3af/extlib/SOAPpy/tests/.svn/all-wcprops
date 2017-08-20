@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests
+END
+alanbushTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/alanbushTest.py
+END
+weatherTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/weatherTest.py
+END
+SOAPtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/SOAPtest.py
+END
+storageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/storageTest.py
+END
+echoServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/echoServer.py
+END
+cardClient.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/cardClient.py
+END
+testWSDL.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/testWSDL.py
+END
+BabelfishWSDLTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/BabelfishWSDLTest.py
+END
+Bug916265.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/Bug916265.py
+END
+testleak.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/testleak.py
+END
+newsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/newsTest.py
+END
+GoogleTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/GoogleTest.py
+END
+esj_test_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/esj_test_client.py
+END
+Bug1001646.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/Bug1001646.py
+END
+ZeroLengthArray.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/ZeroLengthArray.py
+END
+echoHeader.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/echoHeader.py
+END
+whoisTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/whoisTest.py
+END
+xmethods.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/xmethods.py
+END
+ComplexTypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/ComplexTypes.py
+END
+translateTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/translateTest.py
+END
+quoteTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/quoteTest.py
+END
+testClient1.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/testClient1.py
+END
+TemperatureService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/TemperatureService.wsdl
+END
+speedTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/speedTest.py
+END
+excelTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/excelTest.py
+END
+cardServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/cardServer.py
+END
+esj_test_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/esj_test_server.py
+END
+TCtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/TCtest.py
+END
+Bug918216.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/Bug918216.py
+END
+echoClient.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/echoClient.py
+END
+simpleWSDL.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/simpleWSDL.py
+END
+largeDataTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/w3af/!svn/ver/611/trunk/extlib/SOAPpy/tests/largeDataTest.py
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/w3af/!svn/ver/4280/trunk/core/data/request
+END
+httpPostDataRequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/2384/trunk/core/data/request/httpPostDataRequest.py
+END
+fuzzableRequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/w3af/!svn/ver/4252/trunk/core/data/request/fuzzableRequest.py
+END
+httpQsRequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/4280/trunk/core/data/request/httpQsRequest.py
+END
+variant_identification.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/w3af/!svn/ver/4168/trunk/core/data/request/variant_identification.py
+END
+xmlrpcRequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/w3af/!svn/ver/3197/trunk/core/data/request/xmlrpcRequest.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/w3af/!svn/ver/851/trunk/core/data/request/__init__.py
+END
+frFactory.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/w3af/!svn/ver/4208/trunk/core/data/request/frFactory.py
+END
+jsonPostDataRequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/w3af/!svn/ver/3582/trunk/core/data/request/jsonPostDataRequest.py
+END
+wsPostDataRequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/w3af/!svn/ver/3407/trunk/core/data/request/wsPostDataRequest.py
+END
